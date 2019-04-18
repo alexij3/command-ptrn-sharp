@@ -1,0 +1,7 @@
+E:\3rd course\2 semester\command_sharp\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+E:\3rd course\2 semester\command_sharp\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+E:\3rd course\2 semester\command_sharp\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+E:\3rd course\2 semester\command_sharp\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+E:\3rd course\2 semester\command_sharp\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.CoreCompileInputs.cache
+E:\3rd course\2 semester\command_sharp\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+E:\3rd course\2 semester\command_sharp\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
